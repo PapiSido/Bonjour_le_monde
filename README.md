@@ -1,4 +1,5 @@
-# Bonjour_le_monde
-= hello-world < br />
+# Bonjour le monde
+= hello-world 
+
 following the tutorial, lol
-question 1: comment aller à la ligne (ça commence fort )
+
